@@ -7,4 +7,4 @@ The Code for Continuous flow matching is based on https://github.com/atong01/con
 
 Further code for CINNs can be found at https://github.com/vislearn/FrEIA.
 
-A better commented version is in coming.
+A better commented version is coming.
